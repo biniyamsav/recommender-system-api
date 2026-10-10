@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]>=2.0
+greenlet
+psycopg[binary]
+alembic
+pydantic-settings
+redis>=5.0
+groq
+asyncpg
+pytest
+pytest-asyncio
+httpx
